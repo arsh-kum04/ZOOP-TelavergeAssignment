@@ -39,4 +39,10 @@ This project is an e-commerce app that facilitates various Algolia APIs for enha
 - **Product Recommendations**: Displays recommended products based on user behavior and preferences.
 - **Frequently Bought Products**: Shows products that are often purchased together.
 - **Trending Products**: Highlights products that are currently popular among users.
-- **Similar Products**: Pr
+- **Similar Products**: Provides suggestions for products similar to the one currently viewed.
+- **AI-Enabled Search**: Leverages Algolia’s AI capabilities for enhanced search results.
+
+### Troubleshooting
+- Ensure all dependencies are correctly configured and that your Android SDK is up to date if you encounter issues during the build process.
+- Check for any error messages in the `Build` window of Android Studio and consult the [official documentation](https://developer.android.com/studio) for further guidance.
+
